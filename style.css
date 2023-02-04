@@ -1,0 +1,192 @@
+body {
+    background-color: hsl(185, 41%, 84%);
+}
+
+
+#box {
+    display: flex;
+    background-color: hsl(0, 0%, 100%);
+    height: 365px;
+    width: 700px; 
+    border-radius: 20px;
+    
+}
+
+#box-left {
+    flex: 1;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    margin: 15px;
+    
+}
+
+
+
+#box-right {
+    flex: 1;
+    background-color: hsl(186, 14%, 43%) ;
+    border-radius: 20px;
+    margin: 15px;
+}
+
+#title-bill {
+    font-size: 20px;
+    font-family: 'Lora', serif;
+    margin-bottom: 10px;
+}
+
+#bill {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(243, 245, 248);
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#valor {
+    font-size: 20px;
+    font-family: 'PT Serif', serif; ;
+}
+
+#selecttip {
+    font-size: 20px;
+    font-family: 'PT Serif', serif;
+
+}
+
+#box-num {
+    display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  width: 100%;
+  justify-content: center;
+}
+
+#porc input {
+    background-color: rgb(63, 114, 107);
+    height: 35px;
+    width: 75px;
+    font-size: 10px;
+    border:transparent;
+    border-radius:5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-top: 10px;
+    margin-right: 5px;
+    text-align: center;
+}
+
+
+
+
+
+#custom button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(247, 244, 244);
+    height: 35px;
+    width: 75px;
+    border-radius: 5px;
+    margin: 2px;
+    color:rgb(68, 107, 102);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px ;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-right: 8px;
+    border: none;
+    margin-bottom: 25px;
+  }
+
+
+
+
+#title-tip {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+#title-tip, #title-bill, #title-plp {
+    color:rgb(68, 107, 102) ;
+}
+
+#valor {
+    color:rgb(68, 107, 102)
+}
+
+#num-plp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#nump {
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(68, 107, 102);
+    margin-right: 5px;
+}
+
+#icon {
+    margin-left: 5px;
+    margin-right: 20px;
+}
+
+#title-plp {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    margin-top: 20px;
+}
+
+#title-plp {
+    font-size: 20px;
+}
+
+#number {
+    text-align: center;
+}
+
+
+#nbill {
+    width: 60px;
+}
+
+#np {
+    width: 60px;
+}
+
+#tip1 , #tip2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-right: 40px;
+}
+
+#space-2 {
+    margin-top: -30px;
+    padding-top: -20px;
+}
+
+#space-3 {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#space-3 button {
+    margin-top: 70px;
+    height: 35px;
+    width: 230px;
+    cursor: pointer;
+}
+
+#amount1 p , #amount2 p {
+    margin-top: -20px;
+}
+
