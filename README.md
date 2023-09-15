@@ -10,7 +10,7 @@ Com ele, é possível calcular o total da caxinha, o total por pessoa e o total 
 A aparência é elegante e moderna, tornando a experiência de pagamento rápida e simples.
 
 ## Como usar
-Para utilizar o Restaurante Bill, basta acessar a aplicação web através do link [[inserir link do projeto]](https://disantoss.github.io/Desafio_FMENTOR_RestaurantBill/) e preencher as informações necessárias:
+Para utilizar o Restaurante Bill, basta acessar a aplicação web através do link https://disantoss.github.io/Desafio_FMENTOR_RestaurantBill/ e preencher as informações necessárias:
 
 ### Valor total da conta:
 insira o valor total da conta do restaurante.
