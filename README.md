@@ -13,12 +13,13 @@ A aparência é elegante e moderna, tornando a experiência de pagamento rápida
 Para utilizar o Restaurante Bill, basta acessar a aplicação web através do link [[inserir link do projeto]](https://disantoss.github.io/Desafio_FMENTOR_RestaurantBill/) e preencher as informações necessárias:
 
 ### Valor total da conta:
-insira o valor total da conta do restaurante, incluindo impostos e taxas de serviço (se houver).
+insira o valor total da conta do restaurante.
 ### Quantidade de pessoas:
 insira a quantidade de pessoas que irão pagar a conta.
 ### Porcentagem da caxinha:
 insira a porcentagem que deseja pagar para o garçom como caixinha.
-A aplicação irá calcular o valor total da caxinha, o valor total por pessoa e o valor total da mesa, mostrando os resultados na tela. Você pode usar o botão "reset" para limpar os campos e começar novamente.
+
+## A aplicação irá calcular o valor total da caxinha, o valor total por pessoa e o valor total da mesa, mostrando os resultados na tela. Você pode usar o botão "reset" para limpar os campos e começar novamente.
 
 obs: Se colocar os valores em outra ordem, aparecerá os valores como "$NaN", mas ao colocar todas as informações e clicar na porcentagem, o valor final sempre aparecerá. Pretendo fazer essas e outras alterações no projeto em breve.
 
